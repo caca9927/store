@@ -1,0 +1,30 @@
+
+*{
+    margin: 0;
+}
+
+
+.container{
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card{
+    margin-left: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+
+}
+
+form{
+    margin-bottom:30px;
+}
